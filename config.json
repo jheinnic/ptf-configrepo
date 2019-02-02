@@ -1,0 +1,13 @@
+{
+	"version": "1.0",
+	"repos": [{
+		"name": "ptf-configrepo",
+		"url": "https://github.com/jheinnic/ptf-configrepo",
+		"branches": ["master", "develop"],
+		"hooks": [{
+			"type": "polling",
+			"interval": "90",
+		}]
+	}]
+}
+

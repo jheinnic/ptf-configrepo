@@ -1,0 +1,6 @@
+example:
+  common:
+    over: app
+    overAll: app
+  application:
+    key: app

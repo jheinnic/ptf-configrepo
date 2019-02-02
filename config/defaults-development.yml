@@ -1,0 +1,10 @@
+example:
+  common:
+    default: devDefault
+  development
+    default: devDefault
+  test
+    default: devDefault
+  production
+    default: devDefault
+

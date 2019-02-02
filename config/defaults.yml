@@ -1,0 +1,13 @@
+example:
+  common:
+    default: anyDefault
+    defaultAll: anyDefault
+  anyelopment
+    default: anyDefault
+    defaultAll: anyDefault
+  test
+    default: anyDefault
+    defaultAll: anyDefault
+  production
+    default: anyDefault
+    defaultAll: anyDefault
