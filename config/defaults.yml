@@ -2,7 +2,7 @@ example:
   common:
     default: anyDefault
     defaultAll: anyDefault
-  anyelopment
+  development
     default: anyDefault
     defaultAll: anyDefault
   test
