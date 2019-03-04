@@ -3,10 +3,10 @@
 	"repos": [{
 		"name": "ptf-configrepo",
 		"url": "https://github.com/jheinnic/ptf-configrepo",
-		"branches": ["master", "develop"],
+		"branches": ["develop"],
 		"hooks": [{
 			"type": "polling",
-			"interval": "90",
+			"interval": "90"
 		}]
 	}]
 }
